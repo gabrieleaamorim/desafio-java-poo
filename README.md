@@ -5,12 +5,12 @@ Simulação de aplicativo de músicas e podcasts.
 | -------------  | --- |
 | :sparkles: Nome        | **Desafio de POO em Java**
 | :label: Tecnologias | java
-| :fire: Desafio     | https://url-do-desafio.com.br](https://github.com/gabrieleaamorim/desafio-java-poo
+| :fire: Desafio     | https://github.com/gabrieleaamorim/desafio-java-poo
 
 <!-- | :rocket: URL         | https://url-deploy.com.br -->
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-<!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto --> #vitrinedev)
+<!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto) --> #vitrinedev
 
 ## Detalhes do projeto
 
