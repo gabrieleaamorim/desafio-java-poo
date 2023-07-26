@@ -1,7 +1,7 @@
 # Desafio de POO em Java
 
 Simulação de aplicativo de músicas e podcasts.
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |     | 
 | -------------  | --- |
 | :sparkles: Nome        | **Desafio de POO em Java**
 | :label: Tecnologias | java
